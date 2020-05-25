@@ -13,6 +13,6 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/mydevbox/hubitat-package-library/master/packageManifest-WeMoConnect.json",
       "description": "Allows you to integrate your WeMo devices with Hubitat."
-    },
+    }
   ]
 }
