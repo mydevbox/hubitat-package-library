@@ -1,0 +1,18 @@
+{
+  "author": "Chris Lawson",
+  "gitHubUrl": "https://github.com/mydevbox/hubitat-package-library",
+  "packages": [
+    {
+      "name": "MQTT Link",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/mydevbox/hubitat-mqtt-link/master/packageManifest.json",
+      "description": "System to share and control Hubitat Elevation device states in MQTT"
+    },
+    {
+      "name": "WeMo Connect",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/mydevbox/hubitat-package-library/master/packageManifest-WeMoConnect.json",
+      "description": "Allows you to integrate your WeMo devices with Hubitat."
+    },
+  ]
+}
