@@ -13,6 +13,12 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/mydevbox/hubitat-package-library/master/packageManifest-WeMoConnect.json",
       "description": "Allows you to integrate your WeMo devices with Hubitat"
-    }
+    },
+    {
+      "name": "iPhone WiFi Presence Sensor",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/mydevbox/hubitat-package-library/master/packageManifest-iPhoneWiFiPresenceSensor.json",
+      "description": "A virtual presence sensor for Hubitat that checks if an iPhone is on the WiFi network."
+    }   
   ]
 }
