@@ -1,0 +1,22 @@
+{
+  "packageName": "Vizio SmartCast Display",
+  "author": "Mike Cerwin",
+  "minimumHEVersion": "2.1.2",
+  "dateReleased": "2020-05-27",
+  "drivers": [
+    {
+      "id": "67a8cdab-0e50-4051-b9ed-c0e6f5dd8f83",
+      "name": "Vizio SmartCast Display",
+      "namespace": "DixieChckn",
+      "location": "https://raw.githubusercontent.com/DixieChckn/Hubitat/master/drivers/VizioSmartCastDisplay/Vizio-SmartCast-Display.groovy",
+      "required": false
+    },
+    {
+      "id": "67a8cdab-0e50-4051-b9ed-c0e6f5dd8f83",
+      "name": "Vizio SmartCast Input",
+      "namespace": "DixieChckn",
+      "location": "https://raw.githubusercontent.com/DixieChckn/Hubitat/master/drivers/VizioSmartCastInput/Vizio-SmartCast-Input.groovy",
+      "required": false
+    }
+  ]
+}

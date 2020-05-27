@@ -19,6 +19,12 @@
       "category": "Convenience",
       "location": "https://raw.githubusercontent.com/mydevbox/hubitat-package-library/master/packageManifest-iPhoneWiFiPresenceSensor.json",
       "description": "A virtual presence sensor for Hubitat that checks if an iPhone is on the WiFi network."
+    },
+    {
+      "name": "Vizio SmartCast Display Driver",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/mydevbox/hubitat-package-library/master/packageManifest-VizioSmartCastDisplay.json",
+      "description": ""
     }   
   ]
 }
